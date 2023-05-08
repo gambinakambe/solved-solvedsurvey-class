@@ -1,0 +1,7 @@
+Download Link: https://assignmentchef.com/product/solved-solvedsurvey-class
+<br>
+The following are requirements of the Survey class:
+
+The Survey class will have a static class variable that stores the current respondent’s ID. As respondents complete the survey, this value will be incremented by one.The Survey class will have an instance variable to hold the title of the survey.The Survey class should have two overloaded constructors.The first constructor should take no arguments. It should set the survey title to a default value of “Customer Survey”.The second constructor should accept a String value for the survey title. It should reset the static respondent ID to zero. It should set the survey title to the value passed into the constructor.The survey class should have a generateRespondentId() method which returns the next value of the respondent ID. This method should increment the static instance variable for the respondent ID by one.To accomplish the task of developing your Survey class from your designed UML Class Diagram, you will need to implement the following variables and methods:
+
+Static class variable for the respondentIDInstance variable for the Survey titleTwo overloaded constructorsgenerateRespondentID() method.
